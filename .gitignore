@@ -1,0 +1,11 @@
+.vs/
+bin/
+bin-int/
+
+Sandbox/Sandbox.vcxproj
+Sandbox/Sandbox.vcxproj.filters
+Sandbox/Sandbox.vcxproj.user
+Spacious/Spacious.vcxproj
+Spacious/Spacious.vcxproj.filters
+Spacious/Spacious.vcxproj.user
+Spacious.sln
