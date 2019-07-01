@@ -1,0 +1,3 @@
+[submodule "Spacious/vendor/spdlog"]
+	path = Spacious/vendor/spdlog
+	url = https://github.com/gabime/spdlog

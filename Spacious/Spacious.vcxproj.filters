@@ -27,9 +27,15 @@
     <ClInclude Include="src\Spacious\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Spacious\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Spacious\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Spacious\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
